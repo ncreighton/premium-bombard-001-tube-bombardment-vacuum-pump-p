@@ -1,0 +1,2 @@
+# premium-bombard-001-tube-bombardment-vacuum-pump-p
+Tired of scattered sticky notes and missing pressure readings that cause tube bombardment failures? Your vacuum pump data deserves a single source of truth.  This Notion template gives you a ready-to-use system to log every tube bombardment session, track vacuum pump pressure trends, and set automated maintenance alerts. No more lost records or gue
